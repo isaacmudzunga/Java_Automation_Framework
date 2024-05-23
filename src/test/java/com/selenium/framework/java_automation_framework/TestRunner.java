@@ -1,2 +1,4 @@
-package com.selenium.framework.java_automation_framework;public class TestRunner {
+package com.selenium.framework.java_automation_framework;
+
+public class TestRunner {
 }
